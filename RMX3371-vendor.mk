@@ -1599,7 +1599,6 @@ PRODUCT_PACKAGES += \
     libsnpeml \
     libstblur_api \
     libstblur_capture_api \
-    libstdc++ \
     libstface_fd_api \
     libstfaceunlockocl \
     libstfd_mobile_api \
